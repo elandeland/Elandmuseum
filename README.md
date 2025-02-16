@@ -48,7 +48,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>텍스트 복사</h2>
+        <h2>위대한뮤지션100인전<br>해시태그 이벤트</h2>
         <p>아래 버튼을 눌러 텍스트를 복사하시고<br>해시태그를 남겨주세요!</p>
         <button onclick="copyText()">📋 텍스트 복사</button>
     </div>
