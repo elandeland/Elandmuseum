@@ -48,8 +48,8 @@
 </head>
 <body>
     <div class="container">
-        <h2>위대한뮤지션100인전<br> 해시태그 이벤트</h2>
-        <p>아래 버튼을 눌러 텍스트를 복사하세요!</p>
+        <h2>위대한뮤지션100인전<br>  해시태그 이벤트</h2>
+        <p>아래 버튼을 눌러 해시태그를 복사하세요!</p>
         <button onclick="copyText()">📋 텍스트 복사</button>
     </div>
 </body>
