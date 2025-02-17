@@ -1,4 +1,3 @@
-
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -13,14 +12,14 @@
             margin: 0;
             font-family: Arial, sans-serif;
             text-align: center;
-            background-color: #000;
-            color: #fff;
+            background-color: #f4f4f4;
+            color: #000;
         }
         .container {
-            background: #222;
+            background: white;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         button {
             padding: 10px 20px;
@@ -49,8 +48,8 @@
 </head>
 <body>
     <div class="container">
-        <h2>텍스트 복사</h2>
-        <p>아래 버튼을 눌러 텍스트를 복사하세요.</p>
+        <h2>위대한뮤지션100인전<br>해시테그 이벤트</h2>
+        <p>아래 버튼을 눌러 해시테그를 복사하세요.</p>
         <button onclick="copyText()">📋 텍스트 복사</button>
     </div>
 </body>
