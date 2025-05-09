@@ -37,7 +37,7 @@
     </style>
     <script>
         function copyText() {
-            const text = "#위대한뮤지션100인전#이랜드뮤지엄#현대백화점무역센터점";
+            const text = "#위대한축구선수100인전#이랜드뮤지엄#롯데몰김포공항점";
             navigator.clipboard.writeText(text).then(() => {
                 alert("텍스트가 복사되었습니다!\n붙여넣기(Ctrl+V 또는 Cmd+V) 하세요.");
             }).catch(err => {
